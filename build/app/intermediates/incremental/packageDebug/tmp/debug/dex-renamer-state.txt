@@ -1,0 +1,4 @@
+#Fri Feb 05 19:42:25 WIB 2021
+base.0=/home/repoerna/workspace/development/flutter/codelabs-flutter-app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
